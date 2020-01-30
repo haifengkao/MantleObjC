@@ -10,8 +10,8 @@
 
 #import "NSDictionary+MTLJSONKeyPath.h"
 
-#import <Mantle/EXTRuntimeExtensions.h>
-#import <Mantle/EXTScope.h>
+#import <MantleObjC/EXTRuntimeExtensions.h>
+#import <MantleObjC/EXTScope.h>
 #import "MTLJSONAdapter.h"
 #import "MTLModel.h"
 #import "MTLTransformerErrorHandling.h"

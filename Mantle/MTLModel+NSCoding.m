@@ -7,8 +7,8 @@
 //
 
 #import "MTLModel+NSCoding.h"
-#import <Mantle/EXTRuntimeExtensions.h>
-#import <Mantle/EXTScope.h>
+#import <MantleObjC/EXTRuntimeExtensions.h>
+#import <MantleObjC/EXTScope.h>
 #import "MTLReflection.h"
 
 // Used in archives to store the modelVersion of the archived instance.
